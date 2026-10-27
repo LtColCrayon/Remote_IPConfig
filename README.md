@@ -13,7 +13,7 @@ A lightweight, automated PowerShell utility designed to remotely collect network
 
 ```text
 Remote_IPConfig/
-├── Remote_IPConfig.bat      # Quick-launch wrapper script
+├── Run_Me.bat               # Quick-launch wrapper script
 ├── Remote_IPConfig.ps1      # Main PowerShell core execution script
 ├── hosts.txt                # Plain-text target inventory list
 └── ipconfig_outputs/        # Target generated folder for active returns
